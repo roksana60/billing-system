@@ -94,10 +94,10 @@ void display(struct node *start)
         printf("\nTHERE IS NO PATIENT");
     else
     {
-        printf("\Priority wise appointments are:");
+        printf("\nPriority wise appointments are:");
         while(ptr!=NULL)
         {
-            printf("The name of patient is:%s\n",ptr->name);
+            printf("/nThe name of patient is:%s\n",ptr->name);
                 printf("The age of patient is:%d\n",ptr->age);
                 printf("The address of patient is : %s\n",ptr->address);
                 printf("Phone Number:%d\n",ptr->phone);
