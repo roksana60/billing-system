@@ -21,10 +21,10 @@ int main()
     int option;
     do{
 
-        printf("\t\t\t WELCOME TO ANDROIDHIRE HOSPITAL!\n");
-        printf("\t\t\t1.ADD A PATIENT\n");
-        printf("\t\t\t2.DISPLAY ALL APPOINTMENTS\n");
-        printf("\t\t\tEnter your choice:");
+        printf("WELCOME TO CITY HOSPITAL!\t\t\t ");
+        printf("\n1.ADD A PATIENT\t\t\t ");
+        printf("\n2.DISPLAY ALL APPOINTMENTS\t\t\t ");
+        printf("\nEnter your choice:");
         scanf("%d",&option);
     switch(option)
     {
