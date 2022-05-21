@@ -113,13 +113,13 @@ getchar();
 void table()
 {
 printf("\n\n\t\tSelect a category. *Serial will be generated automated based on your selection.*\n");
-printf("\n1.Heart Diseases [Attack or Failure]\n");
-printf("2.Serious wound\n");
-printf("3.Cancer\n");
-printf("4.Fractures\n");
-printf("5.Chest Pain\n");
-printf("6.Diabetes Patient\n");
-printf("7.Infection Related Disease\n");
-printf("8.Normal Fever\n");
-printf("9.Cold or Head Ache\n");
+printf("\n1. Heart Diseases [Attack or Failure]\n");
+printf("2. Serious wound\n");
+printf("3. Cancer\n");
+printf("4. Fractures\n");
+printf("5. Chest Pain\n");
+printf("6. Diabetes Patient\n");
+printf("7. Infection Related Disease\n");
+printf("8. Normal Fever\n");
+printf("9. Cold or Head Ache\n");
 }
